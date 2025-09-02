@@ -122,3 +122,9 @@ Log in as user:
 Use the 'oc' command line interface:
   $ eval $(crc oc-env)
   $ oc login -u developer https://api.crc.testing:6443
+
+oc version
+Client Version: 4.19.3
+Kustomize Version: v5.5.0
+Kubernetes Version: v1.32.5
+
